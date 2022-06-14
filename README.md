@@ -18,3 +18,17 @@
 ### Typography
 
 ![core pallete](readme-images/image5.png)
+
+## Usage Parameters
+
+### Clear Space
+
+![brand color](readme-images/image6.png)
+
+### Logo Placements
+
+![core pallete](readme-images/image7.png)
+
+### Don't
+
+![core pallete](readme-images/image8.png)
