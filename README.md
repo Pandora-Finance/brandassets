@@ -4,31 +4,31 @@
 
 ### Brand color
 
-![brand color](readme-images/image1.png)
+![brand color](readme-images/Brand_Color.png)
 
 ### Core Pallete
 
-![core pallete](readme-images/image2.png)
-![core pallete](readme-images/image3.png)
+![core pallete](readme-images/Color_Pallete.png)
+![core pallete](readme-images/Color_Pallete_2.png)
 
 ### Color Combinations
 
-![core pallete](readme-images/image4.png)
+![core pallete](readme-images/Color_Combinations.png)
 
 ### Typography
 
-![core pallete](readme-images/image5.png)
+![core pallete](readme-images/Typography.png)
 
 ## Usage Parameters
 
 ### Clear Space
 
-![brand color](readme-images/image6.png)
+![brand color](readme-images/Clear_Space.png)
 
 ### Logo Placements
 
-![core pallete](readme-images/image7.png)
+![core pallete](readme-images/Logo_Placements.png)
 
 ### Don't
 
-![core pallete](readme-images/image8.png)
+![core pallete](readme-images/Don_t.png)
